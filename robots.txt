@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tech-pulse.github.io/sitemap.xml
